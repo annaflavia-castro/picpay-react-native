@@ -14,6 +14,7 @@ export const HeaderContainer = styled.SafeAreaView`
   flex: 1;
   align-items: center;
   justify-content: center;
+  margin-top: -10px;
 `;
 
 export const Title = styled.Text`

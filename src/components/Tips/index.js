@@ -11,31 +11,31 @@ const items = [
   {
     key: String(Math.random()),
     img: img8,
-    title: 'Pague suas contas sem sair de casa',
+    title: 'Pague suas contas de forma rápida e fácil',
     bgColor: '#172C4A',
   },
   {
     key: String(Math.random()),
     img: img9,
-    title: 'Pague suas contas sem sair de casa',
+    title: 'Acabe com as dívidas sem sair de casa',
     bgColor: '#6A0159',
   },
   {
     key: String(Math.random()),
     img: img10,
-    title: 'Pague suas contas sem sair de casa',
+    title: 'Cobre um amigo sem perder a amizade',
     bgColor: '#4139C8',
   },
   {
     key: String(Math.random()),
     img: img11,
-    title: 'Pague suas contas sem sair de casa',
+    title: 'Scannei um QR Code e pague agora mesmo',
     bgColor: '#00AB4B',
   },
   {
     key: String(Math.random()),
     img: img12,
-    title: 'Pague suas contas sem sair de casa',
+    title: 'Recarregue seu celular e mantenha-se conectado',
     bgColor: '#BA2F76',
   },
 ];
